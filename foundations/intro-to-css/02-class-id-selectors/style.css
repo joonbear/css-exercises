@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+.odd-numbers-global{
+    background-color: lightpink;
+    font-family: Verdana, sans-serif;
+    font-size: 14px;
+}
+
+.adjust-font-size{
+    font-size:24px;
+}
+
+#number-two{
+    background-color: white;
+    font-weight: 300;
+    color: blue;
+    font-size: 36px;
+}
+
+#number-four{
+    background-color: lightgreen;
+    color: black;
+    font-weight: 700;
+}
